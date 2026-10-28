@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haedong Aiden Rho"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Universidad del Pacifico"
+  location         : "Lima, Peru"
+  employer         : "Universidad del Pacifico"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "h.rho@up.edu.pe" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HbSdbOgAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
